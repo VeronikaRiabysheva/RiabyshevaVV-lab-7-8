@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ex="http://example.org#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:about="http://www.co-ode.org/ontologies/pizza/pizza.owl#Giardiniera">
+    <ex:hasTopping xml:lang="en">SlicedTomatoTopping</ex:hasTopping>
+    <ex:hasTopping xml:lang="pt">CoberturaDeTomate</ex:hasTopping>
+    <ex:hasTopping xml:lang="en">TomatoTopping</ex:hasTopping>
+    <ex:hasTopping xml:lang="pt">CoberturaPeperonata</ex:hasTopping>
+    <ex:hasTopping xml:lang="en">PeperonataTopping</ex:hasTopping>
+    <ex:hasTopping xml:lang="pt">CoberturaDeMozzarella</ex:hasTopping>
+    <ex:hasTopping xml:lang="en">MozzarellaTopping</ex:hasTopping>
+    <ex:hasTopping xml:lang="en">MushroomTopping</ex:hasTopping>
+    <ex:hasTopping xml:lang="pt">CoberturaDeCogumelo</ex:hasTopping>
+    <ex:hasTopping xml:lang="en">LeekTopping</ex:hasTopping>
+    <ex:hasTopping xml:lang="pt">CoberturaDeLeek</ex:hasTopping>
+    <ex:hasTopping xml:lang="en">OliveTopping</ex:hasTopping>
+    <ex:hasTopping xml:lang="pt">CoberturaDeAzeitona</ex:hasTopping>
+    <ex:hasTopping xml:lang="pt">CoberturaPetitPois</ex:hasTopping>
+    <ex:hasTopping xml:lang="en">PetitPoisTopping</ex:hasTopping>
+    <ex:hasTopping xml:lang="pt">CoberturaDeTomateFatiado</ex:hasTopping>
+    <ex:isVegetarian rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</ex:isVegetarian>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.co-ode.org/ontologies/pizza/pizza.owl#QuattroFormaggi">
+    <ex:hasTopping xml:lang="en">TomatoTopping</ex:hasTopping>
+    <ex:hasTopping xml:lang="pt">CoberturaDeTomate</ex:hasTopping>
+    <ex:hasTopping xml:lang="en">FourCheesesTopping</ex:hasTopping>
+    <ex:hasTopping xml:lang="pt">CoberturaQuatroQueijos</ex:hasTopping>
+    <ex:isVegetarian rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</ex:isVegetarian>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.co-ode.org/ontologies/pizza/pizza.owl#PrinceCarlo">
+    <ex:hasTopping xml:lang="pt">CoberturaDeParmesao</ex:hasTopping>
+    <ex:hasTopping xml:lang="en">ParmezanTopping</ex:hasTopping>
+    <ex:hasTopping xml:lang="pt">CoberturaDeLeek</ex:hasTopping>
+    <ex:hasTopping xml:lang="en">LeekTopping</ex:hasTopping>
+    <ex:hasTopping xml:lang="pt">CoberturaRosemary</ex:hasTopping>
+    <ex:hasTopping xml:lang="en">RosemaryTopping</ex:hasTopping>
+    <ex:hasTopping xml:lang="en">MozzarellaTopping</ex:hasTopping>
+    <ex:hasTopping xml:lang="pt">CoberturaDeMozzarella</ex:hasTopping>
+    <ex:hasTopping xml:lang="en">TomatoTopping</ex:hasTopping>
+    <ex:hasTopping xml:lang="pt">CoberturaDeTomate</ex:hasTopping>
+    <ex:isVegetarian rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</ex:isVegetarian>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.co-ode.org/ontologies/pizza/pizza.owl#Caprina">
+    <ex:hasTopping xml:lang="pt">CoberturaDeTomateRessecadoAoSol</ex:hasTopping>
+    <ex:hasTopping xml:lang="en">SundriedTomatoTopping</ex:hasTopping>
+    <ex:hasTopping xml:lang="en">MozzarellaTopping</ex:hasTopping>
+    <ex:hasTopping xml:lang="pt">CoberturaDeMozzarella</ex:hasTopping>
+    <ex:hasTopping xml:lang="en">TomatoTopping</ex:hasTopping>
+    <ex:hasTopping xml:lang="pt">CoberturaDeTomate</ex:hasTopping>
+    <ex:hasTopping xml:lang="pt">CoberturaDeQueijoDeCabra</ex:hasTopping>
+    <ex:hasTopping xml:lang="en">GoatsCheeseTopping</ex:hasTopping>
+    <ex:isVegetarian rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</ex:isVegetarian>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.co-ode.org/ontologies/pizza/pizza.owl#Margherita">
+    <ex:hasTopping xml:lang="en">TomatoTopping</ex:hasTopping>
+    <ex:hasTopping xml:lang="pt">CoberturaDeTomate</ex:hasTopping>
+    <ex:hasTopping xml:lang="en">MozzarellaTopping</ex:hasTopping>
+    <ex:hasTopping xml:lang="pt">CoberturaDeMozzarella</ex:hasTopping>
+    <ex:isVegetarian rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</ex:isVegetarian>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.co-ode.org/ontologies/pizza/pizza.owl#FruttiDiMare">
+    <ex:hasTopping xml:lang="en">MixedSeafoodTopping</ex:hasTopping>
+    <ex:hasTopping xml:lang="pt">CoberturaDeFrutosDoMarMistos</ex:hasTopping>
+    <ex:hasTopping xml:lang="en">TomatoTopping</ex:hasTopping>
+    <ex:hasTopping xml:lang="pt">CoberturaDeTomate</ex:hasTopping>
+    <ex:hasTopping xml:lang="pt">CoberturaDeAlho</ex:hasTopping>
+    <ex:hasTopping xml:lang="en">GarlicTopping</ex:hasTopping>
+    <ex:isVegetarian rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</ex:isVegetarian>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.co-ode.org/ontologies/pizza/pizza.owl#Cajun">
+    <ex:hasTopping xml:lang="en">PrawnsTopping</ex:hasTopping>
+    <ex:hasTopping xml:lang="pt">CoberturaDeCamarao</ex:hasTopping>
+    <ex:hasTopping xml:lang="en">OnionTopping</ex:hasTopping>
+    <ex:hasTopping xml:lang="pt">CoberturaDeCebola</ex:hasTopping>
+    <ex:hasTopping xml:lang="en">TobascoPepperSauceTopping</ex:hasTopping>
+    <ex:hasTopping xml:lang="pt">MolhoTobascoPepper</ex:hasTopping>
+    <ex:hasTopping xml:lang="en">TomatoTopping</ex:hasTopping>
+    <ex:hasTopping xml:lang="pt">CoberturaDeTomate</ex:hasTopping>
+    <ex:hasTopping xml:lang="en">MozzarellaTopping</ex:hasTopping>
+    <ex:hasTopping xml:lang="pt">CoberturaDeMozzarella</ex:hasTopping>
+    <ex:hasTopping xml:lang="en">PeperonataTopping</ex:hasTopping>
+    <ex:hasTopping xml:lang="pt">CoberturaPeperonata</ex:hasTopping>
+    <ex:isVegetarian rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</ex:isVegetarian>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.co-ode.org/ontologies/pizza/pizza.owl#Napoletana">
+    <ex:hasTopping xml:lang="en">AnchoviesTopping</ex:hasTopping>
+    <ex:hasTopping xml:lang="pt">CoberturaDeAnchovies</ex:hasTopping>
+    <ex:hasTopping xml:lang="pt">CoberturaDeAzeitona</ex:hasTopping>
+    <ex:hasTopping xml:lang="en">OliveTopping</ex:hasTopping>
+    <ex:hasTopping xml:lang="en">MozzarellaTopping</ex:hasTopping>
+    <ex:hasTopping xml:lang="pt">CoberturaDeMozzarella</ex:hasTopping>
+    <ex:hasTopping xml:lang="en">CaperTopping</ex:hasTopping>
+    <ex:hasTopping xml:lang="pt">CoberturaDeCaper</ex:hasTopping>
+    <ex:hasTopping xml:lang="en">TomatoTopping</ex:hasTopping>
+    <ex:hasTopping xml:lang="pt">CoberturaDeTomate</ex:hasTopping>
+    <ex:isVegetarian rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</ex:isVegetarian>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.co-ode.org/ontologies/pizza/pizza.owl#Mushroom">
+    <ex:hasTopping xml:lang="pt">CoberturaDeCogumelo</ex:hasTopping>
+    <ex:hasTopping xml:lang="en">MushroomTopping</ex:hasTopping>
+    <ex:hasTopping xml:lang="en">TomatoTopping</ex:hasTopping>
+    <ex:hasTopping xml:lang="pt">CoberturaDeTomate</ex:hasTopping>
+    <ex:hasTopping xml:lang="en">MozzarellaTopping</ex:hasTopping>
+    <ex:hasTopping xml:lang="pt">CoberturaDeMozzarella</ex:hasTopping>
+    <ex:isVegetarian rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</ex:isVegetarian>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.co-ode.org/ontologies/pizza/pizza.owl#Fiorentina">
+    <ex:hasTopping xml:lang="pt">CoberturaDeAlho</ex:hasTopping>
+    <ex:hasTopping xml:lang="en">GarlicTopping</ex:hasTopping>
+    <ex:hasTopping xml:lang="pt">CoberturaDeAzeitona</ex:hasTopping>
+    <ex:hasTopping xml:lang="en">OliveTopping</ex:hasTopping>
+    <ex:hasTopping xml:lang="en">MozzarellaTopping</ex:hasTopping>
+    <ex:hasTopping xml:lang="pt">CoberturaDeMozzarella</ex:hasTopping>
+    <ex:hasTopping xml:lang="pt">CoberturaDeParmesao</ex:hasTopping>
+    <ex:hasTopping xml:lang="en">ParmezanTopping</ex:hasTopping>
+    <ex:hasTopping xml:lang="en">SpinachTopping</ex:hasTopping>
+    <ex:hasTopping xml:lang="pt">CoberturaDeEspinafre</ex:hasTopping>
+    <ex:hasTopping xml:lang="en">TomatoTopping</ex:hasTopping>
+    <ex:hasTopping xml:lang="pt">CoberturaDeTomate</ex:hasTopping>
+    <ex:isVegetarian rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</ex:isVegetarian>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.co-ode.org/ontologies/pizza/pizza.owl#Soho">
+    <ex:hasTopping xml:lang="pt">CoberturaDeAlho</ex:hasTopping>
+    <ex:hasTopping xml:lang="en">GarlicTopping</ex:hasTopping>
+    <ex:hasTopping xml:lang="en">TomatoTopping</ex:hasTopping>
+    <ex:hasTopping xml:lang="pt">CoberturaDeTomate</ex:hasTopping>
+    <ex:hasTopping xml:lang="pt">CoberturaRocket</ex:hasTopping>
+    <ex:hasTopping xml:lang="en">RocketTopping</ex:hasTopping>
+    <ex:hasTopping xml:lang="pt">CoberturaDeAzeitona</ex:hasTopping>
+    <ex:hasTopping xml:lang="en">OliveTopping</ex:hasTopping>
+    <ex:hasTopping xml:lang="pt">CoberturaDeParmesao</ex:hasTopping>
+    <ex:hasTopping xml:lang="en">ParmezanTopping</ex:hasTopping>
+    <ex:hasTopping xml:lang="en">MozzarellaTopping</ex:hasTopping>
+    <ex:hasTopping xml:lang="pt">CoberturaDeMozzarella</ex:hasTopping>
+    <ex:isVegetarian rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</ex:isVegetarian>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.co-ode.org/ontologies/pizza/pizza.owl#Veneziana">
+    <ex:hasTopping xml:lang="en">SultanaTopping</ex:hasTopping>
+    <ex:hasTopping xml:lang="pt">CoberturaSultana</ex:hasTopping>
+    <ex:hasTopping xml:lang="en">PineKernelTopping</ex:hasTopping>
+    <ex:hasTopping xml:lang="pt">CoberturaPineKernels</ex:hasTopping>
+    <ex:hasTopping xml:lang="en">OnionTopping</ex:hasTopping>
+    <ex:hasTopping xml:lang="pt">CoberturaDeCebola</ex:hasTopping>
+    <ex:hasTopping xml:lang="en">MozzarellaTopping</ex:hasTopping>
+    <ex:hasTopping xml:lang="pt">CoberturaDeMozzarella</ex:hasTopping>
+    <ex:hasTopping xml:lang="en">TomatoTopping</ex:hasTopping>
+    <ex:hasTopping xml:lang="pt">CoberturaDeTomate</ex:hasTopping>
+    <ex:hasTopping xml:lang="en">CaperTopping</ex:hasTopping>
+    <ex:hasTopping xml:lang="pt">CoberturaDeCaper</ex:hasTopping>
+    <ex:hasTopping xml:lang="pt">CoberturaDeAzeitona</ex:hasTopping>
+    <ex:hasTopping xml:lang="en">OliveTopping</ex:hasTopping>
+    <ex:isVegetarian rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</ex:isVegetarian>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.co-ode.org/ontologies/pizza/pizza.owl#Rosa">
+    <ex:hasTopping xml:lang="pt">CoberturaDeGorgonzola</ex:hasTopping>
+    <ex:hasTopping xml:lang="en">GorgonzolaTopping</ex:hasTopping>
+    <ex:hasTopping xml:lang="en">TomatoTopping</ex:hasTopping>
+    <ex:hasTopping xml:lang="pt">CoberturaDeTomate</ex:hasTopping>
+    <ex:hasTopping xml:lang="en">MozzarellaTopping</ex:hasTopping>
+    <ex:hasTopping xml:lang="pt">CoberturaDeMozzarella</ex:hasTopping>
+    <ex:isVegetarian rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</ex:isVegetarian>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.co-ode.org/ontologies/pizza/pizza.owl#UnclosedPizza">
+    <ex:hasTopping xml:lang="en">MozzarellaTopping</ex:hasTopping>
+    <ex:hasTopping xml:lang="pt">CoberturaDeMozzarella</ex:hasTopping>
+    <ex:isVegetarian rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</ex:isVegetarian>
+  </rdf:Description>
+</rdf:RDF>
